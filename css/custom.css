@@ -1,0 +1,39 @@
+/*! Place your custom styles here */
+.gambar1{
+    height: 130px;
+    width: 130px;
+  }
+  .text-center {
+    text-align: center!important;
+}
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}
+.pt-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.no-gutters>.col, .no-gutters>[class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+section, footer {
+    padding-top: 7.42857143em;
+    padding-bottom: 7.42857143em;
+    
+}
+h2, .h2 {
+    margin-bottom: 0.78787878787879em;
+}
